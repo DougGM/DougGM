@@ -42,15 +42,12 @@
 ### 🛒 1. Tienda Hardware — E-Commerce
 * **Descripción:** Aplicación web de comercio electrónico para catálogo de productos de tecnología, filtrado dinámico y gestión de carrito de compras.
 * **Tecnologías:** TypeScript, React, Vite, Tailwind CSS.
-* **Enlaces:** [Demo en vivo](https://tu-demo.vercel.app) | [Código en GitHub](https://github.com/DougGM/TiendaHardware)
 
 ### 🎬 2. Cartelera de Películas
 * **Descripción:** Aplicación interactiva para consultar películas en tendencia, detalles y calificaciones mediante el consumo de API REST.
 * **Tecnologías:** TypeScript, React, REST APIs.
-* **Enlaces:** [Demo en vivo](https://tu-demo.vercel.app) | [Código en GitHub](https://github.com/DougGM/cartelera-peliculas-ts)
 
 ### 🎸 3. Proyecto Guitar — Tienda Online
 * **Descripción:** Interfaz interactiva de tienda de guitarras con persistencia de carrito en almacenamiento local.
 * **Tecnologías:** JavaScript, HTML5, CSS3.
-* **Enlaces:** [Demo en vivo](https://tu-demo.vercel.app) | [Código en GitHub](https://github.com/DougGM/ProyectoGuitar)
 
